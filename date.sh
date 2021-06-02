@@ -10,3 +10,4 @@ EOF
 
 echo -en "$HEAD"
 date
+echo "hello"
